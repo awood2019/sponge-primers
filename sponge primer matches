@@ -1,4 +1,5 @@
-#script1
+#find sponge sequences that will match coral primers
+
 conda list #shows packages in miniconda environment
 conda create --name bioinformatics #makes environment
 conda install -c bioconda cutadapt #install cutadapt
