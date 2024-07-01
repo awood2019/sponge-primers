@@ -1,0 +1,539 @@
+Name,Sequence Name,Type,Minimum,Maximum,Length,Sequence (with extension),Length (with extension),# Local Off-target Sites,%GC,Hairpin Tm,Self Dimer Tm,Tm
+Reverse,Farrea_NF22-088_Ribo_Repeat_Draft,primer_bind,548,567,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,AY026379,primer_bind,545,564,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Hertwigia-rosa_USNM1596648_S21_Ribo-Repeat-draft,primer_bind,544,563,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Hertwigia_USNM1596583_S14_Ribo-Repeat,primer_bind,543,562,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21232|Porifera|,primer_bind,480,499,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21201|Porifera|,primer_bind,462,481,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0219|Porifera|Demospongiae,primer_bind,455,474,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21171|Porifera|,primer_bind,452,471,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Corallistes_NF22-022_Ribosomal_Repeat,primer_bind,451,470,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0248|Porifera|Demospongiae (reversed),primer_bind,449,468,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Characella_NF22-009_Ribo_Repeat,primer_bind,448,467,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Astrophorina_NF22-048_Ribo_Repeat,primer_bind,446,465,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21306|Porifera| (reversed),primer_bind,444,463,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272256,primer_bind,444,463,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21226|Porifera|,primer_bind,442,461,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21181|Porifera| (reversed),primer_bind,442,461,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Isodictyidae_SH20090S314_Ribo_Repeat,primer_bind,435,454,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0176|Porifera|Axinella_corrugata,primer_bind,435,454,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0276|Porifera|Agela_citrina,primer_bind,435,454,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118550,primer_bind,434,453,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462778,primer_bind,433,452,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462774,primer_bind,432,451,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462776,primer_bind,432,451,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462775,primer_bind,432,451,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462779,primer_bind,432,451,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462771,primer_bind,432,451,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462777,primer_bind,432,451,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462773,primer_bind,432,451,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0358|Porifera|Demospongiae (reversed),primer_bind,431,450,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118549,primer_bind,431,450,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462772,primer_bind,431,450,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462780,primer_bind,431,450,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272290,primer_bind,430,449,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118553,primer_bind,430,449,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118554,primer_bind,430,449,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118555,primer_bind,430,449,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118560,primer_bind,430,449,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118559,primer_bind,430,449,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118561,primer_bind,430,449,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118563,primer_bind,430,449,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Dictyoceratida_S305_Ribo_Repeat,primer_bind,429,448,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462781,primer_bind,429,448,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,AY026372,primer_bind,428,447,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Consensus 2,primer_bind,428,447,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272309,primer_bind,427,446,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118557,primer_bind,427,446,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KP081741,primer_bind,427,446,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KP081742,primer_bind,427,446,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KP081743,primer_bind,427,446,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KC869492,primer_bind,427,446,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118556,primer_bind,427,446,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272264,primer_bind,426,445,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272261,primer_bind,426,445,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272262,primer_bind,426,445,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272277,primer_bind,426,445,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272278,primer_bind,426,445,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Ianthellidae-maybeHexadella_Ribo_Repeat,primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0038|Porifera|Aplysina_sp.,primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0185|Porifera|Verongida,primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0040|Porifera|Aplysina_sp. (reversed),primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0041|Porifera|Aplysina_cauliformis (reversed),primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272265,primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272268,primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272276,primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272307,primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+T/A,KY670632,mismatch,425,425,1,,,,,,,
+Reverse,HM118552,primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118558,primer_bind,425,444,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0042|Porifera|Aiolochroia_crassa,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0050|Porifera|Porifera (reversed),primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KC869482,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272259,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272260,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272267,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272273,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272281,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272279,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272271,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272269,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272270,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272282,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272272,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462770,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118562,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KP081744,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KX668508,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KP081745,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KP081746,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KX668507,primer_bind,424,443,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Clathrina_S311_Ribo_Repeat,primer_bind,421,440,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Clathrinidae_PNMNH50547_Ribo_Repeat,primer_bind,421,440,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21288|Porifera| (reversed),primer_bind,421,440,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272289,primer_bind,421,440,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272283,primer_bind,421,440,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KC869571,primer_bind,421,440,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272288,primer_bind,421,440,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21436|Porifera|,primer_bind,420,439,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21278|Porifera| (reversed),primer_bind,420,439,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272292,primer_bind,420,439,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KC869572,primer_bind,420,439,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272291,primer_bind,420,439,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272303,primer_bind,420,439,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0047|Porifera|Porifera (reversed),primer_bind,419,438,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21433|Porifera| (reversed),primer_bind,419,438,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KC869503,primer_bind,419,438,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272285,primer_bind,419,438,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272286,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272287,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KY670632,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KY688215,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272300,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272299,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272297,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272298,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KC869498,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KC869538,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KC869645,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KC869542,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KC869505,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272294,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272295,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272306,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272305,primer_bind,418,437,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21194|Porifera|,primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0032|Porifera|Demospongiae (reversed),primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21173|Porifera| (reversed),primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272296,primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KC869524,primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272284,primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272293,primer_bind,417,436,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,Haplosclerida_S308_Ribo_Repeat,primer_bind,416,435,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272302,primer_bind,416,435,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JQ272304,primer_bind,415,434,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21170|Porifera| (reversed),primer_bind,413,432,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21241|Porifera| (reversed),primer_bind,413,432,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21450|Porifera| (reversed),primer_bind,413,432,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21199|Porifera|,primer_bind,412,431,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0029|Porifera|Aplysina_sp.,primer_bind,412,431,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,SH21253|Porifera|,primer_bind,410,429,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,PC22_0039|Porifera|Microcionidae,primer_bind,404,423,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,KR052809,primer_bind,403,422,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,JX462782,primer_bind,393,412,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+Reverse,HM118551,primer_bind,301,320,20,CGTCTTGAAACACGGACCAA,20,0,50.0,32.2,None,58.7
+T/G,KR052809,mismatch,18,18,1,,,,,,,
+A/G,KR052809,mismatch,17,17,1,,,,,,,
+G/A,Consensus 2,mismatch,16,16,1,,,,,,,
+G/A,HM118549,mismatch,16,16,1,,,,,,,
+G/A,JX462774,mismatch,16,16,1,,,,,,,
+G/A,JX462776,mismatch,16,16,1,,,,,,,
+G/A,JX462778,mismatch,16,16,1,,,,,,,
+G/A,JX462775,mismatch,16,16,1,,,,,,,
+G/A,JX462779,mismatch,16,16,1,,,,,,,
+G/A,JX462771,mismatch,16,16,1,,,,,,,
+G/A,JX462772,mismatch,16,16,1,,,,,,,
+G/A,JX462780,mismatch,16,16,1,,,,,,,
+G/A,JX462777,mismatch,16,16,1,,,,,,,
+G/A,JX462782,mismatch,16,16,1,,,,,,,
+G/A,JX462773,mismatch,16,16,1,,,,,,,
+G/A,HM118550,mismatch,16,16,1,,,,,,,
+G/A,HM118551,mismatch,16,16,1,,,,,,,
+G/A,JX462770,mismatch,16,16,1,,,,,,,
+G/A,HM118552,mismatch,16,16,1,,,,,,,
+G/A,JX462781,mismatch,16,16,1,,,,,,,
+G/A,HM118553,mismatch,16,16,1,,,,,,,
+G/A,HM118554,mismatch,16,16,1,,,,,,,
+G/A,HM118555,mismatch,16,16,1,,,,,,,
+G/A,HM118558,mismatch,16,16,1,,,,,,,
+G/A,HM118560,mismatch,16,16,1,,,,,,,
+G/A,HM118559,mismatch,16,16,1,,,,,,,
+G/A,HM118561,mismatch,16,16,1,,,,,,,
+G/A,HM118557,mismatch,16,16,1,,,,,,,
+G/A,KP081741,mismatch,16,16,1,,,,,,,
+G/A,KP081742,mismatch,16,16,1,,,,,,,
+G/A,KP081743,mismatch,16,16,1,,,,,,,
+G/A,KC869492,mismatch,16,16,1,,,,,,,
+G/A,HM118563,mismatch,16,16,1,,,,,,,
+G/A,HM118556,mismatch,16,16,1,,,,,,,
+G/A,KP081744,mismatch,16,16,1,,,,,,,
+G/A,KX668508,mismatch,16,16,1,,,,,,,
+G/A,KP081745,mismatch,16,16,1,,,,,,,
+G/A,KP081746,mismatch,16,16,1,,,,,,,
+G/A,KX668507,mismatch,16,16,1,,,,,,,
+G/A,Astrophorina_NF22-048_Ribo_Repeat,mismatch,15,15,1,,,,,,,
+G/A,Characella_NF22-009_Ribo_Repeat,mismatch,15,15,1,,,,,,,
+G/A,Corallistes_NF22-022_Ribosomal_Repeat,mismatch,15,15,1,,,,,,,
+G/A,Isodictyidae_SH20090S314_Ribo_Repeat,mismatch,15,15,1,,,,,,,
+G/A,SH21226|Porifera|,mismatch,15,15,1,,,,,,,
+G/A,SH21253|Porifera|,mismatch,15,15,1,,,,,,,
+G/A,SH21199|Porifera|,mismatch,15,15,1,,,,,,,
+G/A,SH21436|Porifera|,mismatch,15,15,1,,,,,,,
+G/A,PC22_0176|Porifera|Axinella_corrugata,mismatch,15,15,1,,,,,,,
+G/A,PC22_0276|Porifera|Agela_citrina,mismatch,15,15,1,,,,,,,
+G/A,PC22_0039|Porifera|Microcionidae,mismatch,15,15,1,,,,,,,
+G/A,Dictyoceratida_S305_Ribo_Repeat,mismatch,15,15,1,,,,,,,
+G/A,Ianthellidae-maybeHexadella_Ribo_Repeat,mismatch,15,15,1,,,,,,,
+G/A,PC22_0042|Porifera|Aiolochroia_crassa,mismatch,15,15,1,,,,,,,
+G/A,PC22_0038|Porifera|Aplysina_sp.,mismatch,15,15,1,,,,,,,
+G/A,PC22_0185|Porifera|Verongida,mismatch,15,15,1,,,,,,,
+G/A,PC22_0219|Porifera|Demospongiae,mismatch,15,15,1,,,,,,,
+G/A,Haplosclerida_S308_Ribo_Repeat,mismatch,15,15,1,,,,,,,
+G/A,PC22_0029|Porifera|Aplysina_sp.,mismatch,15,15,1,,,,,,,
+T/A,SH21171|Porifera|,mismatch,15,15,1,,,,,,,
+G/A,SH21201|Porifera|,mismatch,15,15,1,,,,,,,
+G/A,SH21232|Porifera|,mismatch,15,15,1,,,,,,,
+G/A,Hertwigia_USNM1596583_S14_Ribo-Repeat,mismatch,15,15,1,,,,,,,
+G/A,Hertwigia-rosa_USNM1596648_S21_Ribo-Repeat-draft,mismatch,15,15,1,,,,,,,
+G/A,Farrea_NF22-088_Ribo_Repeat_Draft,mismatch,15,15,1,,,,,,,
+G/A,PC22_0050|Porifera|Porifera (reversed),mismatch,15,15,1,,,,,,,
+G/A,SH21181|Porifera| (reversed),mismatch,15,15,1,,,,,,,
+G/A,PC22_0358|Porifera|Demospongiae (reversed),mismatch,15,15,1,,,,,,,
+G/A,SH21170|Porifera| (reversed),mismatch,15,15,1,,,,,,,
+G/A,SH21241|Porifera| (reversed),mismatch,15,15,1,,,,,,,
+G/A,SH21278|Porifera| (reversed),mismatch,15,15,1,,,,,,,
+G/A,SH21450|Porifera| (reversed),mismatch,15,15,1,,,,,,,
+G/A,SH21306|Porifera| (reversed),mismatch,15,15,1,,,,,,,
+G/A,PC22_0040|Porifera|Aplysina_sp. (reversed),mismatch,15,15,1,,,,,,,
+G/A,PC22_0041|Porifera|Aplysina_cauliformis (reversed),mismatch,15,15,1,,,,,,,
+G/A,PC22_0248|Porifera|Demospongiae (reversed),mismatch,15,15,1,,,,,,,
+G/A,AY026379,mismatch,15,15,1,,,,,,,
+G/A,HM118562,mismatch,15,15,1,,,,,,,
+C/T,Dictyoceratida_S305_Ribo_Repeat,mismatch,12,12,1,,,,,,,
+C/T,PC22_0050|Porifera|Porifera (reversed),mismatch,12,12,1,,,,,,,
+T/C,HM118551,mismatch,8,8,1,,,,,,,
+G/A,Clathrina_S311_Ribo_Repeat,mismatch,7,7,1,,,,,,,
+G/A,SH21194|Porifera|,mismatch,7,7,1,,,,,,,
+G/A,PC22_0047|Porifera|Porifera (reversed),mismatch,7,7,1,,,,,,,
+G/A,SH21433|Porifera| (reversed),mismatch,7,7,1,,,,,,,
+G/A,SH21173|Porifera| (reversed),mismatch,7,7,1,,,,,,,
+G/A,JQ272286,mismatch,7,7,1,,,,,,,
+G/A,JQ272287,mismatch,7,7,1,,,,,,,
+G/A,KY670632,mismatch,7,7,1,,,,,,,
+G/A,KY688215,mismatch,7,7,1,,,,,,,
+G/A,JQ272300,mismatch,7,7,1,,,,,,,
+G/A,JQ272297,mismatch,7,7,1,,,,,,,
+G/A,JQ272298,mismatch,7,7,1,,,,,,,
+G/A,KC869498,mismatch,7,7,1,,,,,,,
+G/A,KC869538,mismatch,7,7,1,,,,,,,
+G/A,KC869645,mismatch,7,7,1,,,,,,,
+G/A,KC869542,mismatch,7,7,1,,,,,,,
+G/A,KC869505,mismatch,7,7,1,,,,,,,
+G/A,JQ272294,mismatch,7,7,1,,,,,,,
+G/A,JQ272296,mismatch,7,7,1,,,,,,,
+G/A,JQ272295,mismatch,7,7,1,,,,,,,
+G/A,JQ272306,mismatch,7,7,1,,,,,,,
+G/A,JQ272304,mismatch,7,7,1,,,,,,,
+G/A,JQ272302,mismatch,7,7,1,,,,,,,
+G/A,KC869524,mismatch,7,7,1,,,,,,,
+G/A,JQ272305,mismatch,7,7,1,,,,,,,
+G/A,JQ272291,mismatch,7,7,1,,,,,,,
+G/A,JQ272303,mismatch,7,7,1,,,,,,,
+G/A,JQ272288,mismatch,7,7,1,,,,,,,
+G/A,KY366358,mismatch,7,7,1,,,,,,,
+G/A,KY366380,mismatch,7,7,1,,,,,,,
+G/A,KY366381,mismatch,7,7,1,,,,,,,
+G/A,KY366384,mismatch,7,7,1,,,,,,,
+G/A,KY366388,mismatch,7,7,1,,,,,,,
+G/A,HQ589001,mismatch,7,7,1,,,,,,,
+G/A,MF472613,mismatch,7,7,1,,,,,,,
+G/A,HQ589010,mismatch,7,7,1,,,,,,,
+G/A,HQ589016,mismatch,7,7,1,,,,,,,
+G/A,OX421790,mismatch,7,7,1,,,,,,,
+G/A,KX499450,mismatch,7,7,1,,,,,,,
+G/A,KX499452,mismatch,7,7,1,,,,,,,
+G/A,KX499451,mismatch,7,7,1,,,,,,,
+G/A,KX499449,mismatch,7,7,1,,,,,,,
+G/A,KY366366,mismatch,7,7,1,,,,,,,
+G/A,KY366385,mismatch,7,7,1,,,,,,,
+G/A,KY366372,mismatch,7,7,1,,,,,,,
+G/A,KY366374,mismatch,7,7,1,,,,,,,
+G/A,KY366375,mismatch,7,7,1,,,,,,,
+G/A,KY366398,mismatch,7,7,1,,,,,,,
+G/A,KY366357,mismatch,7,7,1,,,,,,,
+G/A,KY366368,mismatch,7,7,1,,,,,,,
+G/A,KY366397,mismatch,7,7,1,,,,,,,
+G/A,KY366378,mismatch,7,7,1,,,,,,,
+G/A,KY366386,mismatch,7,7,1,,,,,,,
+G/A,KY366382,mismatch,7,7,1,,,,,,,
+G/A,KY366377,mismatch,7,7,1,,,,,,,
+G/A,KY366379,mismatch,7,7,1,,,,,,,
+G/A,KY366364,mismatch,7,7,1,,,,,,,
+G/A,KY366367,mismatch,7,7,1,,,,,,,
+G/A,HQ589019,mismatch,7,7,1,,,,,,,
+G/A,HQ589008,mismatch,7,7,1,,,,,,,
+G/A,KY366359,mismatch,7,7,1,,,,,,,
+G/A,KY366400,mismatch,7,7,1,,,,,,,
+G/A,MF472611,mismatch,7,7,1,,,,,,,
+G/A,KY366370,mismatch,7,7,1,,,,,,,
+G/A,KY366376,mismatch,7,7,1,,,,,,,
+G/A,KY366371,mismatch,7,7,1,,,,,,,
+G/A,HQ589014,mismatch,7,7,1,,,,,,,
+C/T,Astrophorina_NF22-048_Ribo_Repeat,mismatch,3,3,1,,,,,,,
+C/T,Characella_NF22-009_Ribo_Repeat,mismatch,3,3,1,,,,,,,
+C/T,Corallistes_NF22-022_Ribosomal_Repeat,mismatch,3,3,1,,,,,,,
+C/T,Isodictyidae_SH20090S314_Ribo_Repeat,mismatch,3,3,1,,,,,,,
+C/T,SH21226|Porifera|,mismatch,3,3,1,,,,,,,
+C/T,SH21253|Porifera|,mismatch,3,3,1,,,,,,,
+C/T,SH21199|Porifera|,mismatch,3,3,1,,,,,,,
+C/T,SH21436|Porifera|,mismatch,3,3,1,,,,,,,
+C/T,PC22_0176|Porifera|Axinella_corrugata,mismatch,3,3,1,,,,,,,
+C/T,PC22_0276|Porifera|Agela_citrina,mismatch,3,3,1,,,,,,,
+C/T,PC22_0039|Porifera|Microcionidae,mismatch,3,3,1,,,,,,,
+C/T,PC22_0219|Porifera|Demospongiae,mismatch,3,3,1,,,,,,,
+C/T,Haplosclerida_S308_Ribo_Repeat,mismatch,3,3,1,,,,,,,
+C/T,PC22_0029|Porifera|Aplysina_sp.,mismatch,3,3,1,,,,,,,
+C/T,SH21181|Porifera| (reversed),mismatch,3,3,1,,,,,,,
+C/T,PC22_0358|Porifera|Demospongiae (reversed),mismatch,3,3,1,,,,,,,
+C/T,SH21170|Porifera| (reversed),mismatch,3,3,1,,,,,,,
+C/T,SH21241|Porifera| (reversed),mismatch,3,3,1,,,,,,,
+C/T,SH21278|Porifera| (reversed),mismatch,3,3,1,,,,,,,
+C/T,SH21450|Porifera| (reversed),mismatch,3,3,1,,,,,,,
+C/T,SH21306|Porifera| (reversed),mismatch,3,3,1,,,,,,,
+C/T,PC22_0248|Porifera|Demospongiae (reversed),mismatch,3,3,1,,,,,,,
+Forward,Astrophorina_NF22-048_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Characella_NF22-009_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Corallistes_NF22-022_Ribosomal_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Isodictyidae_SH20090S314_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21226|Porifera|,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21253|Porifera|,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21199|Porifera|,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21436|Porifera|,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0176|Porifera|Axinella_corrugata,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0276|Porifera|Agela_citrina,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0039|Porifera|Microcionidae,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Dictyoceratida_S305_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Ianthellidae-maybeHexadella_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0042|Porifera|Aiolochroia_crassa,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0038|Porifera|Aplysina_sp.,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0185|Porifera|Verongida,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Clathrina_S311_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21194|Porifera|,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Clathrinidae_PNMNH50547_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0219|Porifera|Demospongiae,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Haplosclerida_S308_Ribo_Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0029|Porifera|Aplysina_sp.,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21171|Porifera|,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21201|Porifera|,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21232|Porifera|,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Hertwigia_USNM1596583_S14_Ribo-Repeat,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Hertwigia-rosa_USNM1596648_S21_Ribo-Repeat-draft,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Farrea_NF22-088_Ribo_Repeat_Draft,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0032|Porifera|Demospongiae (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0047|Porifera|Porifera (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21433|Porifera| (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21173|Porifera| (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21288|Porifera| (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0050|Porifera|Porifera (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21181|Porifera| (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0358|Porifera|Demospongiae (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21170|Porifera| (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21241|Porifera| (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21278|Porifera| (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21450|Porifera| (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,SH21306|Porifera| (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0040|Porifera|Aplysina_sp. (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0041|Porifera|Aplysina_cauliformis (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,PC22_0248|Porifera|Demospongiae (reversed),primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Consensus,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272256,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KC869482,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272259,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272260,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272265,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272264,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272261,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272262,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272267,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272268,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272273,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272277,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272278,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272281,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272279,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272276,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272271,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272269,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272282,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272272,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,AY026372,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KR052809,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MF472621,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385278,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385250,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385229,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385233,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MF472618,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MF472619,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385247,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MF472622,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MF472623,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MF472615,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272307,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385309,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385298,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385295,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385296,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385297,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385300,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385222,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385235,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MF472617,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385257,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385258,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385265,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385259,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385268,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MH385269,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KC869503,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272289,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272290,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272292,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KC869572,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272286,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272287,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY670632,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY688215,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272300,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272299,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272297,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272298,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KC869498,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KC869538,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KC869645,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KC869542,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KC869505,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272294,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272296,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272295,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272306,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272304,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272302,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KC869524,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272305,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272291,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272303,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272283,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KC869571,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272284,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272285,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272288,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366358,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366380,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366381,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366384,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366388,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589012,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366365,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,LT899665,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JQ272293,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589001,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589004,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366360,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366369,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366391,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366393,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366361,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366363,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366362,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366390,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366392,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366395,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MF472612,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589005,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589009,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MF472613,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589010,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589016,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589003,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589002,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366399,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,OX421790,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KX499450,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KX499452,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KX499451,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KX499449,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366366,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366385,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366372,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366374,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366375,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366398,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366357,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366368,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366397,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366378,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366386,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366382,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366377,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366379,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366364,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366367,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589019,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589008,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366359,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366400,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,MF472611,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366370,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366376,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KY366371,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HQ589014,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,AY026379,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,Consensus 2,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118549,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462774,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462776,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462778,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462775,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462779,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462771,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462772,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462780,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462777,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462782,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462773,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118550,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118551,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462770,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118552,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,JX462781,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118553,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118554,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118555,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118558,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118560,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118559,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118561,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118557,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KP081741,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KP081742,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KP081743,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KC869492,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118562,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118563,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,HM118556,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KP081744,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KX668508,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KP081745,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KP081746,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
+Forward,KX668507,primer_bind,1,19,19,CGTGAAACCGYTRRAAGGG,19,0,56.3,48.0,9.1,54.7 - 61.3
